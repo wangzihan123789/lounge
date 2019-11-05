@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+h1, h2 {
+  color: gray;
+  border-bottom: 1px solid black;
+}
+p {
+  color: maroon;
+}
+em {
+  font-family: serif;
+}
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: small
+}
+p {
+  padding: 0px;
+  margin: 0px;
+}
