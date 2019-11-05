@@ -35,3 +35,13 @@ h2 {
   background-position: top left;
 */
 }
+#elixirs a:link {
+  color: #007e7e;
+}
+#elixirs a:visited {
+  color: #333333;
+}
+#elixirs a:hover {
+  backdground: #f88396;
+  color: #0d5353;
+}
